@@ -91,6 +91,28 @@ Running `nodemon` with `yarn`
 $ yarn dev
 ```
 
+## Frontend
+
+Project Initialization:
+- Just run the command below
+``` sh
+$ yarn create react-app frontend
+$ cd frontend
+$ yarn start
+```
+Adding `express` to the `frontend` project
+``` sh
+$ yarn add express
+```
+Adding `react-router-dom` to the `frontend` project
+``` sh
+$ yarn add react-router-dom
+```
+Adding `axios` to the `frontend` project
+``` sh
+$ yarn add axios
+```
+
 ### About project
 See more: [OmniStack 8.0](https://rocketseat.com.br/week-8/aulas)
 
